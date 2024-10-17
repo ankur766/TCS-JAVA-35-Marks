@@ -1,0 +1,12 @@
+package com.tcs;
+
+public class Course {
+	private int course_Id;
+	private  String Course_Name;
+	private String course_Admin;
+	private int quiz;
+	private int handson;
+	
+
+
+}
