@@ -1,0 +1,12 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Ankur Kumar\\IPA7\\" : "src"
+		}
+	},
+	"name" : "Ankur kumar/IPA7",
+	"type" : "J",
+	"require" : {
+		"php" : ">=8.2"
+	}
+}
